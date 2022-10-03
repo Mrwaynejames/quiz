@@ -1,0 +1,32 @@
+
+
+header {
+    background-color: #09eb8d;
+    text-align: center;
+}
+
+header h1 {
+    margin: 5px;
+}
+
+header button {
+    margin: 10px;
+}
+
+form {
+    width: 25%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #807d7d;
+    border-radius: 10px;    
+    background-color: #c0baba;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    text-decoration: underline;
+}
